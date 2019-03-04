@@ -1,6 +1,6 @@
 # Overview
 
-This allows users to notify meetings/appointments via email. A form with required fields should be filled about the meeting/appointment and an email will be sent to the invitees of the meeting/appoinment along with the details. 
+This allows users to notify meetings/appointments via email. The form with required fields should be filled about the meeting/appointment and an email will be sent to the invitees of the meeting/appoinment along with the details. The relevant fields that are to be filled is prompted in the command line when you invoke the service through client.bal
 
 ## Compatibility
 |                    |    Version     |  
